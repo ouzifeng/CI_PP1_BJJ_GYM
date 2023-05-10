@@ -1,39 +1,60 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome,
+# Brazilian Jiu-Jitsu Club
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **March 3rd, 2023**
 
-## Codeanywhere Reminders
+## Use Case
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+A client approached me who is starting up their own Brazilian Jit-Jitsu (BJJ) club in the local area. They feel that a website will be invaluable to their business for finding new students, and keeping existing students up to date with timetables and any other club related updates
 
-`python3 -m http.server`
+![Placeholder image for now](https://www.pulsecarshalton.co.uk/wp-content/uploads/2016/08/jk-placeholder-image.jpg)
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## Project Scope
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+### End User Requirements
 
-`http_server`
+* Need to be able to find the gym
+* Need to be able to contact the gym
+* Need to know prices
+* Need to know lesson schedule
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### Customer Goals
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+* Find new students
+* Be contactable by email
+* Provide critical information about the gym to customers
+* Promote the business on social media platforms
+* Feel "friendly" and approachable
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+# User Experience
 
-To log into the Heroku toolbelt CLI:
+## Target Audience
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+* Potential students who are new to the sport and looking to join a gym for the first time
+* Students who are already training but are looking for a new gym closer to their existing one
+* Parents who want their children to try a new sport
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+# UX/UI
 
----
+* Responsive design across mobile, tablet and desktop/laptops
+* Easy to navigate and find critical information -> prices and timetable
+* No dead links
+* Placeholder for Facebook and Instagram pages (these are currently not setup)
+* Simple way to contact the gym owner. The owner prefers to communicate through email as they don't have access to take calls during the day
+* Simple design without distracting elements or long blocks of text
 
-Happy coding!
+## User Stories
+
+### New Student
+
+* I want to know how to get to the gym, preferrably via an embedded map on the contact page
+* I want to know how much it will cost me on a monthly or class by class basis, and whether there is a free trial
+* I want to be able to check the timetable to see when classes are on
+* I want to see images of the gym and students to get a feel for the place
+* I want to be able to contact the gym if I have questions
+
+### Existing Students
+
+* I want to be able to check the timetable to see when classes are on
+* I want to see images of myself and/or my classmates training
