@@ -67,35 +67,35 @@ A client approached me who is starting up their own Brazilian Jit-Jitsu (BJJ) cl
 <details>
 
 <summary>Home</summary>
-!(assets/images/wireframes/Home-Page-Desktop.png)
-!(assets/images/wireframes/Home-Page-Tablet.png)
-!(assets/images/wireframes/Home-Page-Mobile.png)
+![](assets/images/wireframes/Home-Page-Desktop.png)
+![](assets/images/wireframes/Home-Page-Tablet.png)
+![](assets/images/wireframes/Home-Page-Mobile.png)
 
 </details>
 
 <details>
 
 <summary>Timetable</summary>
-!(assets/images/wireframes/Timetable-Desktop.png)
-!(assets/images/wireframes/Timetable-Tablet.png)
-!(assets/images/wireframes/Timetable-Mobile.png)
+![](assets/images/wireframes/Timetable-Desktop.png)
+![](assets/images/wireframes/Timetable-Tablet.png)
+![](assets/images/wireframes/Timetable-Mobile.png)
 
 </details>
 
 <details>
 
 <summary>Contact</summary>
-!(assets/images/wireframes/Contact-Desktop.png)
-!(assets/images/wireframes/Contact-Tablet.png)
-!(assets/images/wireframes/Contact-Mobile.png)
+![](assets/images/wireframes/Contact-Desktop.png)
+![](assets/images/wireframes/Contact-Tablet.png)
+![](assets/images/wireframes/Contact-Mobile.png)
 
 </details>
 
 <details>
 
 <summary>Classes</summary>
-!(assets/images/wireframes/Classes-Desktop.png)
-!(assets/images/wireframes/Classes-Tablet.png)
-!(assets/images/wireframes/Classes-Mobile.png)
+![](assets/images/wireframes/Classes-Desktop.png)
+![](assets/images/wireframes/Classes-Tablet.png)
+![](assets/images/wireframes/Classes-Mobile.png)
 
 </details>
