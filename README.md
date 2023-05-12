@@ -4,7 +4,7 @@
 
 
 
-## Use Case
+### Use Case
 
 A client approached me who is starting up their own Brazilian Jit-Jitsu (BJJ) club in the local area. They feel that a website will be invaluable to their business for finding new students, and keeping existing students up to date with timetables and any other club related updates
 
@@ -27,15 +27,15 @@ A client approached me who is starting up their own Brazilian Jit-Jitsu (BJJ) cl
 * Promote the business on social media platforms
 * Feel "friendly" and approachable
 
-# User Experience
+## User Experience
 
-## Target Audience
+### Target Audience
 
 * Potential students who are new to the sport and looking to join a gym for the first time
 * Students who are already training but are looking for a new gym closer to their existing one
 * Parents who want their children to try a new sport
 
-# UX/UI
+## UX/UI
 
 * Responsive design across mobile, tablet and desktop/laptops
 * Easy to navigate and find critical information -> prices and timetable
@@ -58,3 +58,44 @@ A client approached me who is starting up their own Brazilian Jit-Jitsu (BJJ) cl
 
 * I want to be able to check the timetable to see when classes are on
 * I want to see images of myself and/or my classmates training
+
+
+## Design
+
+### Wireframes
+
+<details>
+
+<summary>Home</summary>
+!(assets/images/wireframes/Home-Page-Desktop.png)
+!(assets/images/wireframes/Home-Page-Tablet.png)
+!(assets/images/wireframes/Home-Page-Mobile.png)
+
+</details>
+
+<details>
+
+<summary>Timetable</summary>
+!(assets/images/wireframes/Timetable-Desktop.png)
+!(assets/images/wireframes/Timetable-Tablet.png)
+!(assets/images/wireframes/Timetable-Mobile.png)
+
+</details>
+
+<details>
+
+<summary>Contact</summary>
+!(assets/images/wireframes/Contact-Desktop.png)
+!(assets/images/wireframes/Contact-Tablet.png)
+!(assets/images/wireframes/Contact-Mobile.png)
+
+</details>
+
+<details>
+
+<summary>Classes</summary>
+!(assets/images/wireframes/Classes-Desktop.png)
+!(assets/images/wireframes/Classes-Tablet.png)
+!(assets/images/wireframes/Classes-Mobile.png)
+
+</details>
