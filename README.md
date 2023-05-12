@@ -1,4 +1,4 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![CI logo](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/bjj-logo.png)
 
 # Brazilian Jiu-Jitsu Club
 
@@ -62,40 +62,73 @@ A client approached me who is starting up their own Brazilian Jit-Jitsu (BJJ) cl
 
 ## Design
 
+### Fonts
+
+For the font choice we needed something which looked professional but also welcoming and friendly.
+
+* Montserrat for headings
+* Lato for body
+
+### Colour Scheme
+
+Based on how the leading gyms have built their colour schemes:
+ https://rogergracie.com/
+ https://ekbjj.com/
+ https://www.bjjlondon.com/
+ https://www.10thplanetjj.com/
+
+ They are clean with plenty of constrasting colours - namely white with black. 
+
+![](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/website-colours.png)
+
+To keep with this theme, but with a lisght twist the 2 main colours will be baby powder and rich black, coupled with a choice of bolder colours for CTAs
+
 ### Wireframes
 
 <details>
 
 <summary>Home</summary>
-![](assets/images/wireframes/Home-Page-Desktop.png)
-![](assets/images/wireframes/Home-Page-Tablet.png)
-![](assets/images/wireframes/Home-Page-Mobile.png)
+![](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Home-Page-Desktop.png)
+![](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Home-Page-Tablet.png)
+![](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Home-Page-Mobile.png)
 
 </details>
 
 <details>
 
 <summary>Timetable</summary>
-![](assets/images/wireframes/Timetable-Desktop.png)
-![](assets/images/wireframes/Timetable-Tablet.png)
-![](assets/images/wireframes/Timetable-Mobile.png)
+![](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Timetable-Desktop.png)
+![](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Timetable-Tablet.png)
+![](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Timetable-Mobile.png)
 
 </details>
 
 <details>
 
 <summary>Contact</summary>
-![](assets/images/wireframes/Contact-Desktop.png)
-![](assets/images/wireframes/Contact-Tablet.png)
-![](assets/images/wireframes/Contact-Mobile.png)
+![](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Contact-Desktop.png)
+![](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Contact-Tablet.png)
+![](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Contact-Mobile.png)
 
 </details>
 
 <details>
 
 <summary>Classes</summary>
-![](assets/images/wireframes/Classes-Desktop.png)
-![](assets/images/wireframes/Classes-Tablet.png)
-![](assets/images/wireframes/Classes-Mobile.png)
+![](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Classes-Desktop.png)
+![](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Classes-Tablet.png)
+![](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Classes-Mobile.png)
 
 </details>
+
+## Technologies & Resources Used
+
+#### HTML AND CSS
+
+* Balsamiq for wireframe designs 
+* Google Fonts for fonts
+* Photoshop
+* Canva
+* Coolors
+* Bootsrap V5
+* Microsoft Bing Image Generator (logo)
