@@ -72,10 +72,10 @@ For the font choice we needed something which looked professional but also welco
 ### Colour Scheme
 
 Based on how the leading gyms have built their colour schemes:
- https://rogergracie.com/
- https://ekbjj.com/
- https://www.bjjlondon.com/
- https://www.10thplanetjj.com/
+ * https://rogergracie.com/
+ * https://ekbjj.com/ 
+ * https://www.bjjlondon.com/
+ * https://www.10thplanetjj.com/
 
  They are clean with plenty of constrasting colours - namely white with black. 
 
@@ -132,3 +132,4 @@ To keep with this theme, but with a lisght twist the 2 main colours will be baby
 * Coolors
 * Bootsrap V5
 * Microsoft Bing Image Generator (logo)
+* Compressor.io to losslessy reduce image size

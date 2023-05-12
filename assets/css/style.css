@@ -1,0 +1,115 @@
+/* Website Colors
+
+Black: #011627;
+White: #FDFFFC;
+Red: #e71d36;
+Orange: FF9F1C;
+Aqua: 2ec4b6;
+
+/* Global Styles */
+body {
+    font-size: 16px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+}
+
+.container {
+    max-width: 1170px;
+    margin: auto;
+}
+
+a:hover {
+    color: #FF9F1C !important;
+}
+
+/* NavBar Styles */
+.bg-body-tertiary {
+    background-color: #f5f5f5
+}
+
+.container-fluid {
+    margin: auto;
+    max-width: 1170px;
+}
+
+/* Carousel Styles */
+.carousel-caption h1 {
+    background-color: rgba(1, 22, 39, 0.826);
+    color: #fdfffc;
+}
+
+.carousel-caption {
+    bottom: 10rem;
+}
+
+.btn-outline {
+    background-color: #e71d36;
+    color: #fdfffc;
+    margin-top: 100px;
+    padding: 10px 20px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.btn-outline:hover {
+    background-color: #FF9F1C;
+    color: #fdfffc;
+    margin-top: 100px;
+    padding: 10px 20px;
+}
+
+span i {
+    margin-left: 10px;
+}
+
+/* Body Styles */
+
+.welcome {
+    text-align: center;
+    margin-top: 40px;
+}
+
+/* Tablet CSS */
+@media (max-width: 850px) {
+    .carousel-caption {
+        bottom: 6rem !important;
+    }
+
+    .btn-outline {
+        margin-top: 50px !important;
+    }
+}
+
+
+
+/* Mobile CSS */
+@media (max-width: 480px) {
+    .carousel-caption {
+        bottom: 1rem !important;
+    }
+
+    .carousel-caption h1 {
+        font-size: 100%;
+    }
+
+    .btn-outline {
+        margin-top: 0px !important;
+        padding: 5px 10px;
+        font-size: 80%;
+    }
+
+    span i {
+        margin-left: 5px
+    }
+}
