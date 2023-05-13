@@ -9,6 +9,7 @@ Aqua: 2ec4b6;
 /* Global Styles */
 body {
     font-size: 16px;
+    background-color: #f5f5f5;
 }
 
 h1,
@@ -25,8 +26,9 @@ p {
 }
 
 .container {
-    max-width: 1170px;
+    max-width: 1180px;
     margin: auto;
+    background-color: #FDFFFC;
 }
 
 a:hover {
@@ -35,12 +37,14 @@ a:hover {
 
 /* NavBar Styles */
 .bg-body-tertiary {
-    background-color: #f5f5f5
+    background-color: #f5f5f5 !important;
+    padding: 0;
 }
 
 .container-fluid {
     margin: auto;
-    max-width: 1170px;
+    max-width: 1180px;
+    background-color: #FDFFFC !important;
 }
 
 /* Carousel Styles */
@@ -78,6 +82,39 @@ span i {
 .welcome {
     text-align: center;
     margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.cta {
+    background-color: #011627;
+    color: #FDFFFC;
+}
+
+.cta p {
+    margin-top: 40px;
+}
+
+.btn-cta {
+    background-color: #e71d36;
+    color: #fdfffc;
+    padding: 10px 20px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.circle img {
+    border-radius: 50%;
+    padding: 40px;
+    max-height: 350px;
+}
+
+.circle {
+    display: flex;
+    justify-content: center;
+}
+
+.cta-right {
+    padding: 40px 40px 40px 0;
 }
 
 /* Tablet CSS */
@@ -90,8 +127,6 @@ span i {
         margin-top: 50px !important;
     }
 }
-
-
 
 /* Mobile CSS */
 @media (max-width: 480px) {
@@ -111,5 +146,13 @@ span i {
 
     span i {
         margin-left: 5px
+    }
+
+    .cta-right {
+        padding: 30px;
+    }
+
+    .cta-right h3 {
+        text-align: center;
     }
 }
