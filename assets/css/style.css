@@ -45,6 +45,7 @@ a:hover {
     margin: auto;
     max-width: 1180px;
     background-color: #FDFFFC !important;
+    border-bottom: 1px #dee2e6 solid;
 }
 
 .nav-link {
@@ -157,6 +158,19 @@ span i {
 .copyright {
     text-align: center;
     padding: 0 0 20px 0;
+}
+
+.facilities {
+    padding-top: 40px;
+}
+
+.facilities h2 {
+    text-align: center;
+}
+
+.img-container {
+    height: 36vh;
+    overflow: hidden;
 }
 
 /* Table Styles */
@@ -281,6 +295,11 @@ span i {
     .btn-outline {
         margin-top: 50px !important;
     }
+
+    .img-container {
+        height: 13vh;
+        overflow: hidden;
+    }
 }
 
 /* Mobile CSS */
@@ -309,5 +328,15 @@ span i {
 
     .cta-right h3 {
         text-align: center;
+    }
+
+    .image-wrapper {
+        flex-basis: 100%;
+    }
+
+    .img-container {
+        height: 30vh;
+        overflow: hidden;
+        margin-bottom: 10px;
     }
 }
