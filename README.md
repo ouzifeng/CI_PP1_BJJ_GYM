@@ -1,4 +1,4 @@
-![CI logo](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/bjj-logo.png)
+![BJJ logo](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/bjj-logo.png)
 
 # Brazilian Jiu-Jitsu Club
 
@@ -8,7 +8,7 @@
 
 A client approached me who is starting up their own Brazilian Jit-Jitsu (BJJ) club in the local area. They feel that a website will be invaluable to their business for finding new students, and keeping existing students up to date with timetables and any other club related updates
 
-![Placeholder image for now](https://github.com/ouzifeng/bjj-gym/blob/main/docs/responsive-design.png)
+![Responsive Image](https://github.com/ouzifeng/bjj-gym/blob/main/docs/responsive-design.png)
 
 ## Project Scope
 
@@ -88,7 +88,7 @@ To keep with this theme, but with a lisght twist the 2 main colours will be baby
 <details>
 
 <summary>Home</summary>
-![](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Home-Page-Desktop.png)
+![](https://github.com/ouzifeng/CI_PP1_BJJ_GYM/blob/main/docs/wireframes/Classes-Desktop.png)
 ![](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Home-Page-Tablet.png)
 ![](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Home-Page-Mobile.png)
 
