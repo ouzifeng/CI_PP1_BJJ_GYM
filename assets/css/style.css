@@ -82,7 +82,7 @@ a:hover {
 
 .btn-outline:hover {
     background-color: #FF9F1C;
-    color: #fdfffc;
+    color: #fdfffc !important;
     margin-top: 100px;
     padding: 10px 20px;
 }
