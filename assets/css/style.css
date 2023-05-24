@@ -92,6 +92,34 @@ span i {
 }
 
 /* Body Styles */
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.img-container {
+    flex: 0 0 48%;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.img-container:nth-child(1) {
+    flex-basis: 60%;
+}
+
+.img-container:nth-child(2) {
+    flex-basis: 40%;
+}
+
+.img-container-inner {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.img-container-inner img {
+    max-width: 100%;
+    height: auto;
+}
 
 .bjj-timetable {
     border: 1px #011627 solid;
@@ -194,11 +222,6 @@ span i {
 
 .facilities h2 {
     text-align: center;
-}
-
-.img-container {
-    height: 36vh;
-    overflow: hidden;
 }
 
 /* Table Styles */
@@ -363,8 +386,7 @@ span i {
     }
 
     .img-container {
-        height: 30vh;
-        overflow: hidden;
-        margin-bottom: 10px;
+        flex-basis: 100%;
+        width: 100%;
     }
 }
