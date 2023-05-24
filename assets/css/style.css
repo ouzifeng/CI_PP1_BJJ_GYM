@@ -381,12 +381,7 @@ span i {
         text-align: center;
     }
 
-    .image-wrapper {
-        flex-basis: 100%;
-    }
-
-    .img-container {
-        flex-basis: 100%;
-        width: 100%;
+    .flex-container {
+        display: block;
     }
 }
