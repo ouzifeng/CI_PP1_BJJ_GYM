@@ -113,6 +113,22 @@ span i {
     margin-top: 40px;
 }
 
+.btn-prices {
+    background-color: #011627 !important;
+    color: #fdfffc;
+    padding: 10px 20px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.btn-prices:hover {
+    background-color: #FF9F1C !important;
+    color: #fdfffc !important;
+    padding: 10px 20px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
 .btn-cta {
     background-color: #e71d36;
     color: #fdfffc;
