@@ -8,7 +8,7 @@
 
 A client approached me who is starting up their own Brazilian Jit-Jitsu (BJJ) club in the local area. They feel that a website will be invaluable to their business for finding new students, and keeping existing students up to date with timetables and any other club related updates
 
-![Placeholder image for now](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/responsive-design.png)
+![Placeholder image for now](https://github.com/ouzifeng/bjj-gym/blob/main/docs/responsive-design.png)
 
 ## Project Scope
 
