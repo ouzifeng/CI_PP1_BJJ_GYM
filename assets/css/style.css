@@ -384,4 +384,8 @@ span i {
     .flex-container {
         display: block;
     }
+
+    .img-container {
+        height: 100%;
+    }
 }
