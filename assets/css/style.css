@@ -93,6 +93,10 @@ span i {
 
 /* Body Styles */
 
+.bjj-timetable {
+    border: 1px #011627 solid;
+}
+
 .welcome {
     text-align: center;
     margin-top: 40px;
