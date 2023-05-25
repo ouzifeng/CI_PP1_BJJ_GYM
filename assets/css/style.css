@@ -469,4 +469,8 @@ span i {
     .img-container-children {
         text-align: center;
     }
+
+    .error-404 {
+        width: 350px;
+    }
 }
