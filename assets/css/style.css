@@ -127,6 +127,10 @@ span i {
     padding: 10px;
 }
 
+.adults-image img {
+    height: 255px !important;
+}
+
 .img-container-adults:nth-child(1) {
     flex-basis: 25%;
 }
