@@ -121,6 +121,25 @@ span i {
     height: auto;
 }
 
+.img-container {
+    flex: 0 0 48%;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.img-container-adults:nth-child(1) {
+    flex-basis: 25%;
+}
+
+.img-container-adults:nth-child(2) {
+    flex-basis: 50%;
+}
+
+.img-container-adults:nth-child(3) {
+    flex-basis: 25%;
+}
+
+
 .bjj-timetable {
     border: 1px #011627 solid;
 }
