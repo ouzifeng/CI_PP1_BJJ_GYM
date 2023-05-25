@@ -374,6 +374,10 @@ span i {
         height: 13vh;
         overflow: hidden;
     }
+
+    .img-container-adults img {
+        height: 200px !important;
+    }
 }
 
 /* Mobile CSS */
