@@ -411,4 +411,8 @@ span i {
     .img-container {
         height: 100%;
     }
+
+    .img-container-adults {
+        text-align: center;
+    }
 }
