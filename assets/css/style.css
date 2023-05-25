@@ -270,6 +270,14 @@ span i {
     text-align: center;
 }
 
+.error-404 {
+    background-image: url(../images/404.gif);
+    height: 400px;
+    background-position: center;
+    width: 600px;
+    margin: auto;
+}
+
 /* Table Styles */
 .adults-timetable thead {
     background-color: #011627;
