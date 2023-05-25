@@ -143,6 +143,19 @@ span i {
     flex-basis: 25%;
 }
 
+.img-container-adults {
+    flex: 0 0 48%;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.img-container-children:nth-child(1) {
+    flex-basis: 60%;
+}
+
+.img-container-children:nth-child(2) {
+    flex-basis: 40%;
+}
 
 .bjj-timetable {
     border: 1px #011627 solid;
