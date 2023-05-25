@@ -149,6 +149,16 @@ span i {
     padding: 10px;
 }
 
+.childrens-image img {
+    height: 260px;
+}
+
+.img-container-children {
+    flex: 0 0 48%;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
 .img-container-children:nth-child(1) {
     flex-basis: 60%;
 }
@@ -390,6 +400,10 @@ span i {
 
     .img-container-adults img {
         height: 200px !important;
+    }
+
+    .childrens-image img {
+        height: 200px;
     }
 }
 
