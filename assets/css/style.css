@@ -446,4 +446,8 @@ span i {
     .img-container-adults {
         text-align: center;
     }
+
+    .img-container-children {
+        text-align: center;
+    }
 }
