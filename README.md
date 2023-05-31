@@ -139,14 +139,33 @@ To keep with this theme, but with a lisght twist the 2 main colours will be baby
 
 ## Testing
 
-HTML validation
+### HTML validation
 
-Tool for HTML Validation - W3C
+Tool for HTML Validation - W3C HTML Validation Service
 
 
-index.html (https://validator.w3.org/nu/?doc=https%3A%2F%2Fouzifeng.github.io%2FCI_PP1_BJJ_GYM%2Findex.html)
-404.html (https://validator.w3.org/nu/?doc=https%3A%2F%2Fouzifeng.github.io%2FCI_PP1_BJJ_GYM%2F404.html)
-classes.html (https://validator.w3.org/nu/?doc=https%3A%2F%2Fouzifeng.github.io%2FCI_PP1_BJJ_GYM%2Fclasses.html)
-contact.html (https://validator.w3.org/nu/?doc=https%3A%2F%2Fouzifeng.github.io%2FCI_PP1_BJJ_GYM%2Fcontact.html)
-prices.html (https://validator.w3.org/nu/?doc=https%3A%2F%2Fouzifeng.github.io%2FCI_PP1_BJJ_GYM%2Fprices.html)
-timetable.html (https://validator.w3.org/nu/?doc=https%3A%2F%2Fouzifeng.github.io%2FCI_PP1_BJJ_GYM%2Ftimetable.html)
+index.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fouzifeng.github.io%2FCI_PP1_BJJ_GYM%2Findex.html)
+
+404.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fouzifeng.github.io%2FCI_PP1_BJJ_GYM%2F404.html)
+
+classes.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fouzifeng.github.io%2FCI_PP1_BJJ_GYM%2Fclasses.html)
+
+contact.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fouzifeng.github.io%2FCI_PP1_BJJ_GYM%2Fcontact.html)
+
+prices.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fouzifeng.github.io%2FCI_PP1_BJJ_GYM%2Fprices.html)
+
+timetable.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fouzifeng.github.io%2FCI_PP1_BJJ_GYM%2Ftimetable.html)
+
+
+### CSS Validation
+
+Tool for CSS Validation - W3C CSS Validation Service
+
+style.css[results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fouzifeng.github.io%2FCI_PP1_BJJ_GYM%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+
+Results = 25 errors and 491 warnings. Of which the 25 errors are coming from Bootstraps https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css and 419 warnings from Bootstraps https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css
+
+Manually copy and pasting my style.css into the validator results in Congratulations! No Error Found.
+
+
+
