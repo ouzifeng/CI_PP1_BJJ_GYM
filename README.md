@@ -197,3 +197,7 @@ The website was tested onthe following browsers:
 - Chrome
 - Safari
 - Firefox
+
+## Features
+
+The website consists of 6 pages
