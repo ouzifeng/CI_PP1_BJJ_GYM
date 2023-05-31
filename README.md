@@ -10,7 +10,7 @@ A client approached me who is starting up their own Brazilian Jit-Jitsu (BJJ) cl
 
 ![Responsive Image](https://github.com/ouzifeng/bjj-gym/blob/main/docs/responsive-design.png)
 [Live Site](https://ouzifeng.github.io/CI_PP1_BJJ_GYM/)
-Testing GIT
+
 
 ## Project Scope
 
@@ -135,3 +135,10 @@ To keep with this theme, but with a lisght twist the 2 main colours will be baby
 * Bootsrap V5
 * Microsoft Bing Image Generator (logo)
 * Compressor.io to losslessy reduce image size
+
+
+## Testing
+
+HTML validation
+
+Tool for HTML Validation - W3C
