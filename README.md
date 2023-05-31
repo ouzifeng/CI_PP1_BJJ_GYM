@@ -191,3 +191,9 @@ The website was tested on the following screen sizes and devices:
 - Huawei 8" tablet
 - Apple iPhone 13
 - Google Pixel 7
+
+### Browser compatibility
+The website was tested onthe following browsers:
+- Chrome
+- Safari
+- Firefox
