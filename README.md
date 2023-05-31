@@ -167,5 +167,10 @@ Results = 25 errors and 491 warnings. Of which the 25 errors are coming from Boo
 
 Manually copy and pasting my style.css into the validator results in Congratulations! No Error Found.
 
+### Accessibility
+
+The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met the neccessary accessibility standards. All pages pass with zero errors.
+
+index.html [results](https://wave.webaim.org/report#/https://ouzifeng.github.io/CI_PP1_BJJ_GYM/index.html)
 
 
