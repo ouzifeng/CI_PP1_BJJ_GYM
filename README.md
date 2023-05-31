@@ -142,3 +142,6 @@ To keep with this theme, but with a lisght twist the 2 main colours will be baby
 HTML validation
 
 Tool for HTML Validation - W3C
+
+
+index.html (https://validator.w3.org/nu/?doc=https%3A%2F%2Fouzifeng.github.io%2FCI_PP1_BJJ_GYM%2Findex.html)
