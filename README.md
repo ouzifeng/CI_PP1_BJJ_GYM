@@ -181,4 +181,6 @@ contact.html [results](https://wave.webaim.org/report#/https://ouzifeng.github.i
 
 prices.html [results](https://wave.webaim.org/report#/https://ouzifeng.github.io/CI_PP1_BJJ_GYM/prices.html)
 
+timetable.html [results](https://wave.webaim.org/report#/https://ouzifeng.github.io/CI_PP1_BJJ_GYM/timetable.html)
+
 
