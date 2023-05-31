@@ -184,3 +184,10 @@ prices.html [results](https://wave.webaim.org/report#/https://ouzifeng.github.io
 timetable.html [results](https://wave.webaim.org/report#/https://ouzifeng.github.io/CI_PP1_BJJ_GYM/timetable.html)
 
 
+### Performance test on different devices
+The website was tested on the following screen sizes and devices:
+- Windows desktop 28inch and 22inch screens
+- Macbook pro
+- Huawei 8" tablet
+- Apple iPhone 13
+- Google Pixel 7
