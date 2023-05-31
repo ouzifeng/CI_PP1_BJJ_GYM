@@ -149,3 +149,4 @@ index.html (https://validator.w3.org/nu/?doc=https%3A%2F%2Fouzifeng.github.io%2F
 classes.html (https://validator.w3.org/nu/?doc=https%3A%2F%2Fouzifeng.github.io%2FCI_PP1_BJJ_GYM%2Fclasses.html)
 contact.html (https://validator.w3.org/nu/?doc=https%3A%2F%2Fouzifeng.github.io%2FCI_PP1_BJJ_GYM%2Fcontact.html)
 prices.html (https://validator.w3.org/nu/?doc=https%3A%2F%2Fouzifeng.github.io%2FCI_PP1_BJJ_GYM%2Fprices.html)
+timetable.html (https://validator.w3.org/nu/?doc=https%3A%2F%2Fouzifeng.github.io%2FCI_PP1_BJJ_GYM%2Ftimetable.html)
