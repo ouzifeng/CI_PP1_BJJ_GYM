@@ -232,6 +232,7 @@ and X features
 * Featured on all pages
 * Simple layout with minimal number of options for easy navigation
 * Fully responsive on desktops, laptops, tablets and mobiles. On mobile the links are displayed as a hamburger menu. Active links are highlighted in a different colour
+* User story no. 15
 
 #### Desktop Version
 ![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/navbar-feature.png)
@@ -245,6 +246,7 @@ and X features
 
 * Shows image of the club and its students
 * Has clear CTA embedded to sign up for the free trial
+* User stories no. 4, 7 
 
 #### Carousel image (1 of 3)
 ![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/carousel-feature.png)
