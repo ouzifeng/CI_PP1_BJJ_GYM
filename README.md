@@ -233,6 +233,9 @@ and X features
 * Simple layout with minimal number of options for easy navigation
 * Fully responsive on desktops, laptops, tablets and mobiles. On mobile the links are displayed as a hamburger menu. Active links are highlighted in a different colour
 
+#### Desktop Version
 ![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/navbar-feature.png)
+
+#### Mobile Version
 ![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/navbar-mobile-feature.png)
 
