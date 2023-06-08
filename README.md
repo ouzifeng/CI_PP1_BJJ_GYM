@@ -336,6 +336,15 @@ and 11 features:
 #### 404 Page
 ![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/404-feature.png)
 
+### Performance
+
+Google Lighthouse was used to measure performance of each page
+
+<details>
+<summary>Home</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/validation/lighthouse-performance-index.png">
+</details>
+
 
 
 
