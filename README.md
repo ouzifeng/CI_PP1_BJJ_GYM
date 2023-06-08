@@ -310,4 +310,10 @@ and X features
 
 ### Social Links
 
-* 
+* Facebook and Instagram link
+* Links set to open up in new tab
+* In footer of every page
+* User story 8
+
+#### Social Links
+![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/social-links-feature.png)
