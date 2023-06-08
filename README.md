@@ -271,5 +271,18 @@ and X features
 #### Embedded Map
 ![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/local-map-feature.png)
 
+### Pricing and Free Trial
+
+* Clearly shows pricing tier for adults, children and one off visits
+* Links to contact form if user has more questions
+* Free trial CTA clearly states 1 week free without any obligations
+* User stories 2, 10, 15
+
+#### Pricing Cards
+![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/prices-feature.png)
+
+#### Free Trial CTA
+![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/free-trial-feature.png)
+
 
 
