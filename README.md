@@ -48,18 +48,32 @@ A client approached me who is starting up their own Brazilian Jit-Jitsu (BJJ) cl
 
 ## User Stories
 
-### New Student
+### New Students
 
-* I want to know how to get to the gym, preferrably via an embedded map on the contact page
-* I want to know how much it will cost me on a monthly or class by class basis, and whether there is a free trial
-* I want to be able to check the timetable to see when classes are on
-* I want to see images of the gym and students to get a feel for the place
-* I want to be able to contact the gym if I have questions
+1. I want to know how to get to the gym, preferrably via an embedded map on the contact page
+2. I want to know how much it will cost me on a monthly or class by class basis, and whether there is a free trial
+3. I want to be able to check the timetable to see when classes are on
+4. I want to see images of the gym and students to get a feel for the place
+5. I want to be able to contact the gym if I have questions
 
 ### Existing Students
 
-* I want to be able to check the timetable to see when classes are on
-* I want to see images of myself and/or my classmates training
+6. I want to be able to check the timetable to see when classes are on
+7. I want to see images of myself and/or my classmates training
+8. I want links to social media pages to see any new update of photos
+
+### Parents
+
+9. I want to be able to see children's timetable
+10. I want to be able to see how much children's classes are
+11. I want to see photos of children training to get a feel for the gym
+12. I want to be able to contact the gym if I have questions
+
+### Site Owner
+
+13. I want dead links to redirect to a 404 page
+14. I want new and existing students to be able to contact me via email, not phone. Also give an explanation as to why there is no phone number available (I am often busy during the day and cannot takes calls)
+15. I want new and existing students to be able to find timetable and pricing easily
 
 
 ## Design
