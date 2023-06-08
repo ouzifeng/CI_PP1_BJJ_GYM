@@ -297,3 +297,13 @@ and X features
 
 #### Children's Timetable
 ![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/childrens-timetable-feature.png)
+
+### Contact Form
+
+* Does not require user to input too many personal details, just name and number
+* Checkbox to agree to have the users personal details processed
+* Includes message about free trial
+* User story 5, 12, 14
+
+#### Contact Form
+![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/contact-form-feature.png)
