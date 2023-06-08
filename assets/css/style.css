@@ -474,3 +474,8 @@ span i {
         width: 350px;
     }
 }
+
+.nav-link.active {
+    background-color: #FF9F1C;
+    border-radius: 5px;
+}

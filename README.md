@@ -224,3 +224,11 @@ The website consists of 6 pages:
 4. Pricing page -> options to view the 3 different pricing tiers
 5. Timetable page -> new and existing sutdents can find out when their next class is
 6. 404 page -> redirects any deadlinks to the 404 page
+
+and X features
+
+### Logo and Navigation Bar
+
+* Featured on all pages
+* Simple layout with minimal number of options for easy navigation
+* Fully responsive on desktops, laptops, tablets and mobiles. On mobile the links are displayed as a hamburger menu
