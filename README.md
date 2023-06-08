@@ -387,6 +387,27 @@ and 11 features:
 | Images are not being cached | Serve static assets with an efficient cache policy |
 | Bootstrap, FontAwesome and Google Fonts require JS and CSS files that impact performance | Load the scripts using async, or defer attribute to avoid blocking document parsing |
 
+## Deployment
+
+The website was deployed using GitHub Pages by following these steps:
+1. In the GitHub repository navigate to the Settings tab
+2. On the left hand menu select Pages
+3. For the source select Branch: master
+4. After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is published at https://4n4ru.github.io/CI_MS1_BodelschwingherHof/"
+
+You can for fork the repository by following these steps:
+1. Go to the GitHub repository
+2. Click on Fork button in upper right hand corner
+
+You can clone the repository by following these steps:
+1. Go to the GitHub repository 
+2. Locate the Code button above the list of files and click it 
+3. Select if you prefere to clone using HTTPS, SSH, or Github CLI and click the copy button to copy the URL to your clipboard
+4. Open Git Bash
+5. Change the current working directory to the one where you want the cloned directory
+6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
+7. Press Enter to create your local clone.
+
 
 
 
