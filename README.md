@@ -225,7 +225,7 @@ The website consists of 6 pages:
 5. Timetable page -> new and existing sutdents can find out when their next class is
 6. 404 page -> redirects any deadlinks to the 404 page
 
-and X features
+and 11 features:
 
 ### Logo and Navigation Bar
 
@@ -285,7 +285,7 @@ and X features
 ![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/free-trial-feature.png)
 
 
-### Timestables
+### Timetables
 
 * Separate timetables for adults and children's classes
 * Timetables scroll on mobile for a better user experience
