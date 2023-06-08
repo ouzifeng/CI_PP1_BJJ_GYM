@@ -261,4 +261,15 @@ and X features
 #### Embedded Video
 ![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/feature-video.png)
 
+### Map
+
+* Interactive map via a Google maps embed
+* Allows viewing of larger map
+* Has address written underneath
+* User story 1
+
+#### Embedded Map
+![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/local-map-feature.png)
+
+
 
