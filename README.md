@@ -345,6 +345,33 @@ Google Lighthouse was used to measure performance of each page
 <img src="https://github.com/ouzifeng/bjj-gym/blob/main/validation/lighthouse-performance-index.png">
 </details>
 
+<details>
+<summary>404</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/validation/lighthouse-performance-404.png">
+</details>
+
+<details>
+<summary>Classes</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/validation/lighthouse-performance-classes.png">
+</details>
+
+<details>
+<summary>Contact</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/validation/lighthouse-performance-contact.png">
+</details>
+
+<details>
+<summary>Prices</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/validation/lighthouse-performance-prices.png">
+</details>
+
+<details>
+<summary>Timetable</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/validation/lighthouse-performance-timetable.png">
+</details>
+
+
+
 
 
 
