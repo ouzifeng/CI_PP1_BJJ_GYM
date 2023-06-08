@@ -408,7 +408,8 @@ You can clone the repository by following these steps:
 6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
 7. Press Enter to create your local clone.
 
-
+## Credits
+Images below do not belong to the developer, but they either have permission to use them from the owner or they can be used under Google's creative commons license
 
 
 
