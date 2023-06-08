@@ -214,4 +214,13 @@ The website was tested onthe following browsers:
 
 ## Features
 
-The website consists of 6 pages
+### Structure
+
+The website consists of 6 pages:
+
+1. Home page -> an overview of the gym, with clear links to other key parts of the site and a clear CTA to join
+2. Classes page -> more information about the gym, the adult classes and the children's classes
+3. Contact page -> clearly laid out contact form and map of the gym's location
+4. Pricing page -> options to view the 3 different pricing tiers
+5. Timetable page -> new and existing sutdents can find out when their next class is
+6. 404 page -> redirects any deadlinks to the 404 page
