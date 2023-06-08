@@ -317,3 +317,14 @@ and X features
 
 #### Social Links
 ![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/social-links-feature.png)
+
+### Children's Classes 
+
+* Set of photos showing children training at the club
+* Children look happy and enjoyign the lesson
+* There is an instructor nearby coaching them and keeping them safe
+* User story 11
+
+#### Children's Classes
+![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/childrens-classes-feature.png)
+
