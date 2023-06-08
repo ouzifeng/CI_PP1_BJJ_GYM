@@ -251,3 +251,14 @@ and X features
 #### Carousel image (1 of 3)
 ![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/carousel-feature.png)
 
+
+### Video
+
+* Found on landing page directly under carousel
+* Gives a more indeoth intorduction to the gym vs images
+* User stories 4, 7
+
+#### Embedded Video
+![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/feature-video.png)
+
+
