@@ -239,3 +239,13 @@ and X features
 #### Mobile Version
 ![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/navbar-mobile-feature.png)
 
+
+
+### Carousel
+
+* Shows image of the club and its students
+* Has clear CTA embedded to sign up for the free trial
+
+#### Carousel image (1 of 3)
+![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/carousel-feature.png)
+
