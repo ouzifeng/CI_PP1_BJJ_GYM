@@ -285,4 +285,15 @@ and X features
 ![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/free-trial-feature.png)
 
 
+### Timestables
 
+* Separate timetables for adults and children's classes
+* Timetables scroll on mobile for a better user experience
+* Additional information included, for example what to bring
+* User stories 3, 6 , 9, 15
+
+#### Adult Timetable
+![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/adults-timetable-feature.png)
+
+#### Children's Timetable
+![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/childrens-timetable-feature.png)
