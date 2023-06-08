@@ -328,3 +328,14 @@ and X features
 #### Children's Classes
 ![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/childrens-classes-feature.png)
 
+### 404 Page
+
+* Any dead links will redirect to 404 page
+* 404 page has a link to take users back to the index page
+
+#### 404 Page
+![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/404-feature.png)
+
+
+
+
