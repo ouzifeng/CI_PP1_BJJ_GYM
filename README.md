@@ -197,6 +197,43 @@ prices.html [results](https://wave.webaim.org/report#/https://ouzifeng.github.io
 
 timetable.html [results](https://wave.webaim.org/report#/https://ouzifeng.github.io/CI_PP1_BJJ_GYM/timetable.html)
 
+### Performance
+
+Google Lighthouse was used to measure performance of each page
+
+Performance has been impacted main by third party resources, please see known bugs for more information
+
+<details>
+<summary>Home</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/validation/lighthouse-performance-index.png">
+</details>
+
+<details>
+<summary>404</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/validation/lighthouse-performance-404.png">
+</details>
+
+<details>
+<summary>Classes</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/validation/lighthouse-performance-classes.png">
+</details>
+
+<details>
+<summary>Contact</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/validation/lighthouse-performance-contact.png">
+</details>
+
+<details>
+<summary>Prices</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/validation/lighthouse-performance-prices.png">
+</details>
+
+<details>
+<summary>Timetable</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/validation/lighthouse-performance-timetable.png">
+</details>
+
+
 
 ### Performance test on different devices
 The website was tested on the following screen sizes and devices:
@@ -336,42 +373,15 @@ and 11 features:
 #### 404 Page
 ![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/404-feature.png)
 
-### Performance
 
-Google Lighthouse was used to measure performance of each page
+## Bugs
 
-Performance has been impacted main by third party resources, please see known bugs for more information
-
-<details>
-<summary>Home</summary>
-<img src="https://github.com/ouzifeng/bjj-gym/blob/main/validation/lighthouse-performance-index.png">
-</details>
-
-<details>
-<summary>404</summary>
-<img src="https://github.com/ouzifeng/bjj-gym/blob/main/validation/lighthouse-performance-404.png">
-</details>
-
-<details>
-<summary>Classes</summary>
-<img src="https://github.com/ouzifeng/bjj-gym/blob/main/validation/lighthouse-performance-classes.png">
-</details>
-
-<details>
-<summary>Contact</summary>
-<img src="https://github.com/ouzifeng/bjj-gym/blob/main/validation/lighthouse-performance-contact.png">
-</details>
-
-<details>
-<summary>Prices</summary>
-<img src="https://github.com/ouzifeng/bjj-gym/blob/main/validation/lighthouse-performance-prices.png">
-</details>
-
-<details>
-<summary>Timetable</summary>
-<img src="https://github.com/ouzifeng/bjj-gym/blob/main/validation/lighthouse-performance-timetable.png">
-</details>
-
+| **Bug** | **Fix** |
+| ----------- | ----------- |
+| Links to social media pages are not live | Gym needs to setup necessary social media pages and provide links/names |
+| The contact form does not work | Build a PHP script to handle sending messages from the website |
+| The contact form is not using required attributes | Add required to  HTML input |
+| Youtube video on index page loads heavy unused JS files, impacting performance | These originate from the Youtube API so we cannot defer them using HTML. Either lazy load the video using JS or use a light embed |
 
 
 
