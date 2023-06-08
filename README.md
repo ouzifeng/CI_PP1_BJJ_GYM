@@ -383,7 +383,10 @@ and 11 features:
 | The contact form is not using required attributes | Add required to  HTML input |
 | Youtube video on index page loads heavy unused JS files, impacting performance | These originate from the Youtube API so we cannot defer them using HTML. Either lazy load the video using JS or use a light embed |
 | GIF on 404 page is 1mb and impacts performance | Convert the GIF to video, serve the GIF via a CDN, implement lazy loading or change to a static image |
-| Photo not being served using next gen format | Convert .jpg and .png images to .webp |
+| Photos are not being served using next gen format | Convert .jpg and .png images to .webp |
+| Images are not being cached | Serve static assets with an efficient cache policy |
+| Bootstrap, FontAwesome and Google Fonts require JS and CSS files that impact performance | Load the scripts using async, or defer attribute to avoid blocking document parsing |
+
 
 
 
