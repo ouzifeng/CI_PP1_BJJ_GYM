@@ -398,7 +398,12 @@ and 11 features:
 
 <details>
 <summary>Pricing Cards</summary>
-<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/prices-feature">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/prices-feature.png">
+</details>
+
+<details>
+<summary>Pricing Cards</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/free-trial-feature.png">
 </details>
 
 
