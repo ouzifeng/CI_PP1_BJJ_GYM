@@ -357,6 +357,15 @@ The website was tested onthe following browsers:
 <img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/youtube-video.png">
 </details>
 
+8. I want links to social media pages to see any new update of photos
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Social links in footer | Click FB or IG link in footer | links open up gym FB or IG page | Pages not created yet so href is set to "#" |
+
+
+
+
 ## Features
 
 ### Structure
