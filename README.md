@@ -381,8 +381,44 @@ and 11 features:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Map | On Index page scroll down the bottom | Locating a map showing the location of the gym | Works as expected |
-| Footer - contact information section | On any page scroll down to the footer | Find the address of the gym | Works as expected |
+| Map | Visit contact page | Loads a Google map of the gym and has the address in text format | Works as expected |
+| Footer/Header | Click on "contact" link in header or footer | Takes user to contact page where address is | Works as expected |
+
+<details>
+<summary>Find Map</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/map.png">
+</details>
+
+2. I want to know how much it will cost me on a monthly or class by class basis, and whether there is a free trial
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Pricing Matrix | Visit Prices page | Loads pricing cards | Works as expected |
+| CTA card | Visit Index or Timetable page | Has free trial CTA | Works as expected |
+
+<details>
+<summary>Pricing Cards</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/prices-feature">
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Bugs
 
