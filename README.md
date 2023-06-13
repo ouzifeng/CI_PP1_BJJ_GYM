@@ -14,6 +14,58 @@ A client, who is starting up their own Brazilian Jit-Jitsu (BJJ) club in the loc
 ## Table of Content
 
 1. [Project Scope](#project-scope)
+    1. [End User Requirements](#end-user-requirements)
+    2. [Customer Goals](#project-scope)
+
+2.  [User Experience](#user-experience)
+    1. [Target Audience](#target-audience)
+    2. [UX IU](#ux-ui)
+
+3. [User Stories](#user-stories)
+    1. [New Students](#new-students)
+    2. [Existing Students](#existing-students)
+    3. [Parents](#parents)
+    4. [Site Owner](#site-owner)
+
+4. [Design](#design)
+    1. [Fonts](#fonts)
+    2. [Colour Scheme](#colour-scheme)
+    3. [Wireframes](#wireframes)
+
+5. [Technologies & Resources Used](#technologes-&-resources-used)
+
+6. [Testing](#testing)
+    1. [HTML validation](#html-validation)
+    2. [CSS validation](#css-validation)
+    3. [Accessbility](#accessibility)
+    4. [Performance](#performance)
+    5. [Performance test on different devices](#performance-test-on-different-devices)
+    6. [Browser compatibility](#browser-compatibility)
+    7. [Testing User Stories](#testing-user-stories)
+
+7. [Features](#features)
+    1. [Structure](#structure)
+    2. [Logo and Navigation Bar](#logo-and-navigation-bar)
+    3. [Carousel](#carousel)
+    4. [Video](#video)
+    5. [Map](#map)
+    6. [Pricing and Free Trial](#pricing-and-free-trial)
+    7. [Timetables](#timetables)
+    8. [Contact Form](#contact-form)
+    9. [Social Links](#social-links)
+    10. [Children's Classes](#childrens-classes)
+    11. [404 Page](#404-page)
+
+8. [Bugs](#bugs)
+
+9. [Deployment](#deployment)
+
+10. [Credits](#credits)
+
+11. [Acknowledgements](#acknowledgements)
+
+
+
 
 
 ## Project Scope
@@ -41,7 +93,7 @@ A client, who is starting up their own Brazilian Jit-Jitsu (BJJ) club in the loc
 * Students who are already training but are looking for a new gym closer to their existing one
 * Parents who want their children to try a new sport
 
-## UX/UI
+### UX UI
 
 * Responsive design across mobile, tablet and desktop/laptops
 * Easy to navigate and find critical information -> prices and timetable
