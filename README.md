@@ -439,6 +439,18 @@ The website was tested onthe following browsers:
 <img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/contact-page.png">
 </details>
 
+15. I want new and existing students to be able to find timetable and pricing easily
+
+ **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Navbar | Click Timetable or Pricing in navbar | Sends user to timetable or Prices page | Works as expected |
+
+<details>
+<summary>Navbar</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/navbar-feature.png">
+</details>
+
+
 ## Features
 
 ### Structure
