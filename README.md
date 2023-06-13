@@ -363,6 +363,11 @@ The website was tested onthe following browsers:
 |-------------|------------|---------------------|-------------------|
 | Social links in footer | Click FB or IG link in footer | links open up gym FB or IG page | Pages not created yet so href is set to "#" |
 
+<details>
+<summary>Social Links</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/social-links-feature.png">
+</details>
+
 
 
 
