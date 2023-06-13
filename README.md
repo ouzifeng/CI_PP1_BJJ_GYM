@@ -368,7 +368,41 @@ The website was tested onthe following browsers:
 <img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/social-links-feature.png">
 </details>
 
+#### Parents
 
+9. I want to be able to see children's timetable
+
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Timetables | Visit timetable page | Loads children's timetable | Works as expected |
+
+<details>
+<summary>Children's Timetable</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/childrens-timetable-feature.png">
+</details>
+
+10. I want to be able to see how much children's classes are
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Pricing Matrix | Visit Prices page | Loads childrens pricing card | Works as expected |
+
+<details>
+<summary>Pricing Cards</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/prices-feature.png">
+</details>
+
+11. I want to see photos of children training to get a feel for the gym
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Children's classes area | Visit classes page | Loads children's classes area | Works as expected |
+
+<details>
+<summary>Pricing Cards</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/childrens-classes-feature.png">
+</details>
 
 
 ## Features
