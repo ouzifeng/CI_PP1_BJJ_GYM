@@ -373,6 +373,16 @@ and 11 features:
 #### 404 Page
 ![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/404-feature.png)
 
+## Testing User Stories
+
+### New Students
+
+1. I want to know how to get to the gym, preferrably via an embedded map on the contact page
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Map | On Index page scroll down the bottom | Locating a map showing the location of the gym | Works as expected |
+| Footer - contact information section | On any page scroll down to the footer | Find the address of the gym | Works as expected |
 
 ## Bugs
 
