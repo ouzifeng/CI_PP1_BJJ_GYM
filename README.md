@@ -11,6 +11,10 @@ A client, who is starting up their own Brazilian Jit-Jitsu (BJJ) club in the loc
 ![Responsive Image](https://github.com/ouzifeng/bjj-gym/blob/main/docs/responsive-design.png)
 [Live Site](https://ouzifeng.github.io/CI_PP1_BJJ_GYM/)
 
+## Table of Content
+
+1. [Project Scope](#project-scope)
+
 
 ## Project Scope
 
@@ -444,10 +448,16 @@ The website was tested onthe following browsers:
  **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Navbar | Click Timetable or Pricing in navbar | Sends user to timetable or Prices page | Works as expected |
+| Futher links | Scroll to bottom of index page, click on "View Timetable" | Sends user to timetable page | Works as expected |
 
 <details>
 <summary>Navbar</summary>
 <img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/navbar-feature.png">
+</details>
+
+<details>
+<summary>Further Links</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/further-links.png">
 </details>
 
 
@@ -595,7 +605,7 @@ The website was deployed using GitHub Pages by following these steps:
 1. In the GitHub repository navigate to the Settings tab
 2. On the left hand menu select Pages
 3. For the source select Branch: master
-4. After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is published at https://4n4ru.github.io/CI_MS1_BodelschwingherHof/"
+4. After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is published at https://ouzifeng.github.io/CI_PP1_BJJ_GYM/"
 
 You can for fork the repository by following these steps:
 1. Go to the GitHub repository
@@ -613,6 +623,18 @@ You can clone the repository by following these steps:
 ## Credits
 Images below do not belong to the developer, but they either have permission to use them from the owner or they can be used under Google's creative commons license
 
+### Images
+
+In order of appearance
+
+### Code
+
+In order of appearance
+
+## Acknowledgements
+
+* My teammates, for always pushing me to train harder
+* My mentor Mo Shami for challenging me to always do my best work
 
 
 
