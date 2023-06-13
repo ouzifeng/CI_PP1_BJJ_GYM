@@ -327,6 +327,36 @@ The website was tested onthe following browsers:
 <img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/canact-form-feature.png">
 </details>
 
+#### Existing Students
+
+6. I want to be able to check the timetable to see when classes are on
+
+ **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Timetables | Visit timetable page | Loads adults and children's timetable | Works as expected |
+
+<details>
+<summary>Adults Timetable</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/adults-timetable-feature.png">
+</details>
+
+7. I want to see images of myself and/or my classmates training
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Image carousel | Visit index page | carousel load with 3 images of the gym and students | Works as expected |
+| Youtube video | Visit index page | video of the gym load | Works as expected |
+
+<details>
+<summary>Carousel</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/carousel-feature.png">
+</details>
+
+<details>
+<summary>Youtube Video</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/youtube-video.png">
+</details>
+
 ## Features
 
 ### Structure
