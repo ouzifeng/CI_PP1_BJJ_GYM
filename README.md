@@ -324,7 +324,7 @@ The website was tested onthe following browsers:
 
 <details>
 <summary>Contact Form</summary>
-<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/canact-form-feature.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/contact-page.png">
 </details>
 
 #### Existing Students
@@ -404,6 +404,40 @@ The website was tested onthe following browsers:
 <img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/childrens-classes-feature.png">
 </details>
 
+12. I want to be able to contact the gym if I have questions
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Form | Visit contact page | Contact form loads | Works as expected |
+
+<details>
+<summary>Contact Form</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/contact-page.png">
+</details>
+
+#### Site Owner
+
+13. I want dead links to redirect to a 404 page
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| 404 page | visit deadlink i.e /deadlink | Redirect to 404 page | Works as expected |
+
+<details>
+<summary>404 Redirect</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/404-feature.png">
+</details>
+
+14. I want new and existing students to be able to contact me via email, not phone. Also give an explanation as to why there is no phone number available (I am often busy during the day and cannot takes calls)
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact form/explanation a to why no phone number | visit contact page | Contact form and paragraph about containg via email not phone load | Works as expected |
+
+<details>
+<summary>Contact Page</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/contact-page.png">
+</details>
 
 ## Features
 
