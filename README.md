@@ -314,8 +314,18 @@ The website was tested onthe following browsers:
 <details>
 <summary>Youtube Video</summary>
 <img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/youtube-video.png">
+</details>
 
+5. I want to be able to contact the gym if I have questions
 
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Form | Visit contact page | Contact form loads | Works as expected |
+
+<details>
+<summary>Contact Form</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/canact-form-feature.png">
+</details>
 
 ## Features
 
