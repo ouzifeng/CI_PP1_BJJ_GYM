@@ -249,6 +249,74 @@ The website was tested onthe following browsers:
 - Safari
 - Firefox
 
+### Testing User Stories
+
+#### New Students
+
+1. I want to know how to get to the gym, preferrably via an embedded map on the contact page
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Map | Visit contact page | Loads a Google map of the gym and has the address in text format | Works as expected |
+| Footer/Header | Click on "contact" link in header or footer | Takes user to contact page where address is | Works as expected |
+
+<details>
+<summary>Find Map</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/map.png">
+</details>
+
+2. I want to know how much it will cost me on a monthly or class by class basis, and whether there is a free trial
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Pricing Matrix | Visit Prices page | Loads pricing cards | Works as expected |
+| CTA card | Visit Index or Timetable page | Has free trial CTA | Works as expected |
+
+<details>
+<summary>Pricing Cards</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/prices-feature.png">
+</details>
+
+<details>
+<summary>Free trial</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/free-trial-feature.png">
+</details>
+
+3. I want to be able to check the timetable to see when classes are on
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Timetables | Visit timetable page | Loads adults and children's timetable | Works as expected |
+
+<details>
+<summary>Adults Timetable</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/adults-timetable-feature.png">
+</details>
+
+<details>
+<summary>Children's Timetable</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/childrens-timetable-feature.png">
+</details>
+
+4. I want to see images of the gym and students to get a feel for the place
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Image carousel | Visit index page | carousel load with 3 images of the gym and students | Works as expected |
+| Youtube video | Visit index page | video of the gym load | Works as expected |
+| Images on classes page | Visit Classes page | 3 sections - our faciilites, adult classes and children's classes should laod with images | Works as expected |
+
+<details>
+<summary>Carousel</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/carousel-feature.png">
+</details>
+
+<details>
+<summary>Youtube Video</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/youtube-video.png">
+
+
+
 ## Features
 
 ### Structure
@@ -372,75 +440,6 @@ and 11 features:
 
 #### 404 Page
 ![](https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/404-feature.png)
-
-## Testing User Stories
-
-### New Students
-
-1. I want to know how to get to the gym, preferrably via an embedded map on the contact page
-
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-| Map | Visit contact page | Loads a Google map of the gym and has the address in text format | Works as expected |
-| Footer/Header | Click on "contact" link in header or footer | Takes user to contact page where address is | Works as expected |
-
-<details>
-<summary>Find Map</summary>
-<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/map.png">
-</details>
-
-2. I want to know how much it will cost me on a monthly or class by class basis, and whether there is a free trial
-
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-| Pricing Matrix | Visit Prices page | Loads pricing cards | Works as expected |
-| CTA card | Visit Index or Timetable page | Has free trial CTA | Works as expected |
-
-<details>
-<summary>Pricing Cards</summary>
-<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/prices-feature.png">
-</details>
-
-<details>
-<summary>Free trial</summary>
-<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/free-trial-feature.png">
-</details>
-
-3. I want to be able to check the timetable to see when classes are on
-
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-| Timetables | Visit timetable page | Loads adults and children's timetable | Works as expected |
-
-<details>
-<summary>Adults Timetable</summary>
-<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/adults-timetable-feature.png">
-</details>
-
-<details>
-<summary>Children's Timetable</summary>
-<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/childrens-timetable-feature.png">
-</details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## Bugs
