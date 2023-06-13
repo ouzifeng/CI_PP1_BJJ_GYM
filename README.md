@@ -402,9 +402,27 @@ and 11 features:
 </details>
 
 <details>
-<summary>Pricing Cards</summary>
+<summary>Free trial</summary>
 <img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/free-trial-feature.png">
 </details>
+
+3. I want to be able to check the timetable to see when classes are on
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Timetables | Visit timetable page | Loads adults and children's timetable | Works as expected |
+
+<details>
+<summary>Adults Timetable</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/adults-timetable-feature.png">
+</details>
+
+<details>
+<summary>Children's Timetable</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/features/childrens-timetable-feature.png">
+</details>
+
+
 
 
 
