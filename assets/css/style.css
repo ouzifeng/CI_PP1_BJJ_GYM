@@ -498,3 +498,8 @@ span i {
     text-decoration: none;
     color: #222;
 }
+
+.contrast1 a {
+    text-decoration: none;
+    color: #e71d36;
+}

@@ -251,7 +251,7 @@ Manually copy and pasting the style.css into the validator results in "Congratul
 
 The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met the neccessary accessibility standards.
 
-2 errors resulting from the Facebook and Instagram links not containing text on all pages. As I am using fa icons for this links, text is not necessary. Aside from this, there are zero erros on all pages
+There are zero errors on all pages
 
 index.html [results](https://wave.webaim.org/report#/https://ouzifeng.github.io/CI_PP1_BJJ_GYM/index.html)
 
