@@ -238,17 +238,22 @@ timetable.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fouzifeng
 
 Tool for CSS Validation - W3C CSS Validation Service
 
-style.css[results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fouzifeng.github.io%2FCI_PP1_BJJ_GYM%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+Full site validation: [results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fouzifeng.github.io%2FCI_PP1_BJJ_GYM%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
-Results = 25 errors and 491 warnings. Of which the 25 errors are coming from Bootstraps https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css and 419 warnings from Bootstraps https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css
+Results = 25 errors and 491 warnings. 
 
-Manually copy and pasting my style.css into the validator results in Congratulations! No Error Found.
+25 errors are coming from Bootstrap's https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css 
+419 warnings from Bootstraps https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css
+
+Manually copy and pasting the style.css into the validator results in "Congratulations! No Error Found."
 
 ### Accessibility
 
 The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met the neccessary accessibility standards. All pages pass with zero errors.
 
 index.html [results](https://wave.webaim.org/report#/https://ouzifeng.github.io/CI_PP1_BJJ_GYM/index.html)
+
+2 errors resulting from the Facebook and Instagram links not containing text. As I am using fa icons for this links, text is not necessary
 
 404.html [results](https://wave.webaim.org/report#/https://ouzifeng.github.io/CI_PP1_BJJ_GYM/404.html)
 

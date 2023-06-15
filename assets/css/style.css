@@ -484,3 +484,8 @@ span i {
 .further-links {
     margin-top: 10px;
 }
+
+.contrast {
+    font-weight: 500 !important;
+    color: #222 !important;
+}
