@@ -194,7 +194,7 @@ To keep with this theme, but with a lisght twist the 2 main colours will be baby
 </details>
 
 <summary>404</summary>
-<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/wireframes/404-Destop.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/wireframes/404-Desktop.png">
 <img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/wireframes/404-Tablet.png">
 <img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/wireframes/404-Mobile.png">
 
