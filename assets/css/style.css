@@ -271,7 +271,7 @@ span i {
 }
 
 .error-404 {
-    background-image: url(../images/404.png);
+    background-image: url(../images/404.webp);
     height: 400px;
     background-position: center;
     width: 600px;

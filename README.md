@@ -269,7 +269,11 @@ timetable.html [results](https://wave.webaim.org/report#/https://ouzifeng.github
 
 Google Lighthouse was used to measure performance of each page
 
-Performance has been impacted main by third party resources, please see known bugs for more information
+Performance has been impacted main by third party resources, please see known bugs for more information. Performance is throttled by 3rd party libraries namely:
+* Index page - YouTube's JS library required to embed videos
+* All pages - Bootstrap's CSS and JS CDN. The option to install Bootstrap files directly into the project was considered, but maintaining upgrades and changes to Bootstrap files would require new packages to be downloaded and installed. Using a CDN was decided the best way to counteract this.
+
+All images are taken using Chrome's built-in Lighthouse tool, measured on mobile. Desktop version yield better results
 
 <details>
 <summary>Home</summary>
@@ -300,6 +304,10 @@ Performance has been impacted main by third party resources, please see known bu
 <summary>Timetable</summary>
 <img src="https://github.com/ouzifeng/bjj-gym/blob/main/validation/lighthouse-performance-timetable.png">
 </details>
+
+
+
+
 
 
 
