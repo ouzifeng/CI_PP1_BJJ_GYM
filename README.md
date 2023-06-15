@@ -271,33 +271,36 @@ Google Lighthouse was used to measure performance of each page
 
 Performance has been impacted main by third party resources, please see known bugs for more information. Performance is throttled by 3rd party libraries namely:
 * Index page - YouTube's JS library required to embed videos
-* All pages - Bootstrap's CSS and JS CDN. The option to install Bootstrap files directly into the project was considered, but maintaining upgrades and changes to Bootstrap files would require new packages to be downloaded and installed. Using a CDN was decided the best way to counteract this.
+* All pages - Bootstrap's CSS and JS CDN and Google font's CDN. The option to install Bootstrap files directly into the project was considered, but maintaining upgrades and changes to Bootstrap files would require new packages to be downloaded and installed. Using a CDN was decided the best way to counteract this.
 
 All images are taken using Chrome's built-in Lighthouse tool, measured on mobile. Desktop version yield better results
 
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/validation/404-Mobile.png">
+Render-blocking resources impacting page performance
+
 <details>
 <summary>Home</summary>
-<img src="https://github.com/ouzifeng/bjj-gym/blob/main/validation/lighthouse-performance-index.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/validation/lighthouse-performance-index.png">
 </details>
 
 <details>
 <summary>404</summary>
-<img src="https://github.com/ouzifeng/bjj-gym/blob/main/validation/lighthouse-performance-404.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/validation/lighthouse-performance-404.png">
 </details>
 
 <details>
 <summary>Classes</summary>
-<img src="https://github.com/ouzifeng/bjj-gym/blob/main/validation/lighthouse-performance-classes.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/validation/lighthouse-performance-classes.png">
 </details>
 
 <details>
 <summary>Contact</summary>
-<img src="https://github.com/ouzifeng/bjj-gym/blob/main/validation/lighthouse-performance-contact.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/validation/lighthouse-performance-contact.png">
 </details>
 
 <details>
 <summary>Prices</summary>
-<img src="https://github.com/ouzifeng/bjj-gym/blob/main/validation/lighthouse-performance-prices.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/validation/lighthouse-performance-prices.png">
 </details>
 
 <details>
