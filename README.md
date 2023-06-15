@@ -193,6 +193,13 @@ To keep with this theme, but with a lisght twist the 2 main colours will be baby
 
 </details>
 
+<summary>404</summary>
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Classes-Desktop.png">
+<img src="(https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Classes-Tablet.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Classes-Mobile.png">
+
+</details>
+
 ## Technologies & Resources Used
 
 #### HTML AND CSS

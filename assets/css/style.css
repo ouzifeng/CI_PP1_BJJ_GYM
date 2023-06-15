@@ -271,12 +271,13 @@ span i {
 }
 
 .error-404 {
-    background-image: url(../images/404.gif);
+    background-image: url(../images/404.png);
     height: 400px;
     background-position: center;
     width: 600px;
     margin: auto;
     margin-top: 40px;
+    background-repeat: no-repeat;
 }
 
 .error-404 h2 {
