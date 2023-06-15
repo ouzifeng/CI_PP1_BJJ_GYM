@@ -160,9 +160,9 @@ To keep with this theme, but with a lisght twist the 2 main colours will be baby
 <details>
 
 <summary>Home</summary>
-<img src="https://github.com/ouzifeng/CI_PP1_BJJ_GYM/docs/wireframes/Home-Page-Desktop.png">
-<img src="https://github.com/ouzifeng/CI_PP1_BJJ_GYM/docs/wireframes/Home-Page-Tablet.png">
-<img src="https://github.com/ouzifeng/CI_PP1_BJJ_GYM/docs/wireframes/Home-Page-Mobile.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/wireframes/Home-Page-Desktop.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/wireframes/Home-Page-Tablet.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/wireframes/Home-Page-Mobile.png">
 
 </details>
 
