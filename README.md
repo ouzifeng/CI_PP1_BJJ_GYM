@@ -169,34 +169,34 @@ To keep with this theme, but with a lisght twist the 2 main colours will be baby
 <details>
 
 <summary>Timetable</summary>
-<img src="https://github.com/ouzifeng/CI_PP1_BJJ_GYM/blob/main/docs/wireframes/Timetable-Desktop.png">
-<img src="https://github.com/ouzifeng/CI_PP1_BJJ_GYM/blob/main/docs/wireframes/Timetable-Tablet.png">
-<img src="https://github.com/ouzifeng/CI_PP1_BJJ_GYM/blob/main/docs/wireframes/Timetable-Mobile.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/wireframes/Timetable-Desktop.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/wireframes/Timetable-Tablet.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/wireframes/Timetable-Mobile.png">
 
 </details>
 
 <details>
 
 <summary>Contact</summary>
-<img src="https://github.com/ouzifeng/CI_PP1_BJJ_GYM/blob/main/docs/wireframes/Contact-Desktop.png">
-<img src="https://github.com/ouzifeng/CI_PP1_BJJ_GYM/blob/main/docs/wireframes/Contact-Tablet.png">
-<img src="https://github.com/ouzifeng/CI_PP1_BJJ_GYM/blob/main/docs/wireframes/Contact-Mobile.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/wireframes/Contact-Desktop.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/wireframes/Contact-Tablet.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/wireframes/Contact-Mobile.png">
 
 </details>
 
 <details>
 
 <summary>Classes</summary>
-<img src="https://github.com/ouzifeng/CI_PP1_BJJ_GYM/blob/main/docs/wireframes/Classes-Desktop.png">
-<img src="https://github.com/ouzifeng/CI_PP1_BJJ_GYM/blob/main/docs/wireframes/Classes-Tablet.png">
-<img src="https://github.com/ouzifeng/CI_PP1_BJJ_GYM/blob/main/docs/wireframes/Classes-Mobile.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/wireframes/Classes-Desktop.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/wireframes/Classes-Tablet.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/wireframes/Classes-Mobile.png">
 
 </details>
 
 <summary>404</summary>
-<img src="https://github.com/ouzifeng/CI_PP1_BJJ_GYM/blob/main/docs/wireframes/404-Destop.png">
-<img src="https://github.com/ouzifeng/CI_PP1_BJJ_GYM/blob/main/docs/wireframes/404-Tablet.png">
-<img src="https://github.com/ouzifeng/CI_PP1_BJJ_GYM/blob/main/docs/wireframes/404-Mobile.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/wireframes/404-Destop.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/wireframes/404-Tablet.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/wireframes/404-Mobile.png">
 
 </details>
 
