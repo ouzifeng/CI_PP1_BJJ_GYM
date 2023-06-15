@@ -160,36 +160,36 @@ To keep with this theme, but with a lisght twist the 2 main colours will be baby
 <details>
 
 <summary>Home</summary>
-![](https://github.com/ouzifeng/CI_PP1_BJJ_GYM/blob/main/docs/wireframes/Classes-Desktop.png)
-![](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Home-Page-Tablet.png)
-![](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Home-Page-Mobile.png)
+<img src="https://github.com/ouzifeng/CI_PP1_BJJ_GYM/blob/main/docs/wireframes/Classes-Desktop.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Home-Page-Tablet.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Home-Page-Mobile.png">
 
 </details>
 
 <details>
 
 <summary>Timetable</summary>
-![](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Timetable-Desktop.png)
-![](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Timetable-Tablet.png)
-![](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Timetable-Mobile.png)
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Timetable-Desktop.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Timetable-Tablet.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Timetable-Mobile.png">
 
 </details>
 
 <details>
 
 <summary>Contact</summary>
-![](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Contact-Desktop.png)
-![](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Contact-Tablet.png)
-![](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Contact-Mobile.png)
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Contact-Desktop.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Contact-Tablet.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Contact-Mobile.png">
 
 </details>
 
 <details>
 
 <summary>Classes</summary>
-![](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Classes-Desktop.png)
-![](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Classes-Tablet.png)
-![](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Classes-Mobile.png)
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Classes-Desktop.png">
+<img src="(https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Classes-Tablet.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/wireframes/Classes-Mobile.png">
 
 </details>
 
