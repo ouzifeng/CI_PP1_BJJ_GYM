@@ -704,7 +704,7 @@ In order of appearance:
 
 #### Index Page:
 
-| **File Name** | **Fix** |
+| **File Name** | **Link** |
 | ----------- | ----------- |
 | slider.webp | https://carlsongraciebjjsurrey.com/ |
 | slider1.webp | https://carlsongraciebjjsurrey.com/ |
@@ -716,13 +716,13 @@ In order of appearance:
 
 #### 404:
 
-| **File Name** | **Fix** |
+| **File Name** | **Link** |
 | ----------- | ----------- |
 | 404.webp | https://www.istockphoto.com/ |
 
 #### Classes:
 
-| **File Name** | **Fix** |
+| **File Name** | **Link** |
 | ----------- | ----------- |
 | bjj-mats.webp | https://www.istockphoto.com/ |
 | bjj-gym.webp | https://www.istockphoto.com/ |
@@ -734,10 +734,15 @@ In order of appearance:
 
 #### Prices:
 
-| **File Name** | **Fix** |
+| **File Name** | **Link** |
 | ----------- | ----------- |
 | pricing-bjj.webp | https://www.istockphoto.com/ |
 
+### Video
+
+| **Video** | **Link** |
+| ----------- | ----------- |
+| Index page - YouTuve video | Carlson Gracie Surrey BJJ Youtube Page/ |
 
 ### Code
 
