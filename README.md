@@ -700,13 +700,55 @@ Images below do not belong to the developer, but they either have permission to 
 
 ### Images
 
-In order of appearance
+In order of appearance:
+
+#### Index Page:
+
+| **File Name** | **Fix** |
+| ----------- | ----------- |
+| slider.webp | https://carlsongraciebjjsurrey.com/ |
+| slider1.webp | https://carlsongraciebjjsurrey.com/ |
+| slider2.webp | https://carlsongraciebjjsurrey.com/ |
+| free-trial.webp | https://www.istockphoto.com/ |
+| adults-class.webp | | https://carlsongraciebjjsurrey.com/ |
+| childrens-class.webp | | https://carlsongraciebjjsurrey.com/ |
+| bjj-timetable.webp | | https://www.istockphoto.com/ |
+
+#### 404:
+
+| **File Name** | **Fix** |
+| ----------- | ----------- |
+| 404.webp | https://www.istockphoto.com/ |
+
+#### Classes:
+
+| **File Name** | **Fix** |
+| ----------- | ----------- |
+| bjj-mats.webp | https://www.istockphoto.com/ |
+| bjj-gym.webp | https://www.istockphoto.com/ |
+| adults-class-1.webp | | https://carlsongraciebjjsurrey.com/ |
+| adults-class-2.webp | | https://carlsongraciebjjsurrey.com/ |
+| adults-class-3.webp | | https://carlsongraciebjjsurrey.com/ |
+| childrens-classes-1.webp | | https://carlsongraciebjjsurrey.com/ |
+| childrens-classes-2.webp | | https://carlsongraciebjjsurrey.com/ |
+
+#### Prices:
+
+| **File Name** | **Fix** |
+| ----------- | ----------- |
+| pricing-bjj.webp | https://www.istockphoto.com/ |
+
 
 ### Code
 
 In order of appearance
 
-## Acknowledgements
+* The responsive navbar was built using <a href="https://getbootstrap.com/docs/5.3/components/navbar/" target="_blank">Boostrap V.5.3 Navbar components</a>
+* The image carousel was built using <a href="https://getbootstrap.com/docs/5.3/components/carousel/" target="_blank">Boostrap V.5.3 Carousel components</a>
+* 404 page was build using description on <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site" target="_blank">GitHub Docs</a>
+
+## Acknowledgements:
+
 
 * My teammates, for always pushing me to train harder
 * My mentor Mo Shami for challenging me to always do my best work
