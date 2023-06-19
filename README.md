@@ -676,24 +676,25 @@ and 11 features:
 
 ## Deployment
 
-The website was deployed using GitHub Pages by following these steps:
-1. In the GitHub repository navigate to the Settings tab
-2. On the left hand menu select Pages
-3. For the source select Branch: master
-4. After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is published at https://ouzifeng.github.io/CI_PP1_BJJ_GYM/"
+To deploy the website using GitHub Pages, perform the following steps:
 
-You can for fork the repository by following these steps:
-1. Go to the GitHub repository
-2. Click on Fork button in upper right hand corner
+Visit the relevant GitHub repository and click on the Settings tab.
+From the left-side menu, select the Pages option.
+Choose the source as Branch: master.
+Upon page refresh, you will observe a banner at the top indicating: "Your site is published at https://ouzifeng.github.io/CI_PP1_BJJ_GYM/"
+If you wish to fork the repository, adhere to these steps:
 
-You can clone the repository by following these steps:
-1. Go to the GitHub repository 
-2. Locate the Code button above the list of files and click it 
-3. Select if you prefere to clone using HTTPS, SSH, or Github CLI and click the copy button to copy the URL to your clipboard
-4. Open Git Bash
-5. Change the current working directory to the one where you want the cloned directory
-6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
-7. Press Enter to create your local clone.
+Navigate to the desired GitHub repository.
+Find and click on the Fork button situated in the top right corner.
+To clone the repository, execute these steps:
+
+Visit the specific GitHub repository.
+Find the Code button placed above the file list and click on it.
+Decide your preferred cloning method: HTTPS, SSH, or Github CLI and hit the copy button to clone the URL to your clipboard.
+Launch Git Bash.
+Modify the current working directory to your preferred location for the cloned directory.
+Enter the command 'git clone' followed by the URL copied from the clipboard (e.g., $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY).
+Hit Enter to initialize your local clone.
 
 ## Credits
 Images below do not belong to the developer, but they either have permission to use them from the owner or they can be used under Google's creative commons license
