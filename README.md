@@ -276,7 +276,7 @@ Performance has been impacted main by third party resources, please see known bu
 
 All images are taken using Chrome's built-in Lighthouse tool, measured on mobile. Desktop version yield better results
 
-<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/validation/404-Mobile.webp">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/validation/render-blocking.png">
 Render-blocking resources impacting page performance
 
 <details>
