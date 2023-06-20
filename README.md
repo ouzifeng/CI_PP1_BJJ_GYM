@@ -1,4 +1,4 @@
-![BJJ logo](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/bjj-logo.png)
+![BJJ logo](https://github.com/ouzifeng/bjj-gym/blob/main/assets/images/bjj-logo.webp)
 
 # Brazilian Jiu-Jitsu Club
 
@@ -193,6 +193,7 @@ To keep with this theme, but with a lisght twist the 2 main colours will be baby
 
 </details>
 
+</details>
 <summary>404</summary>
 <img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/wireframes/404-Desktop.png">
 <img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/wireframes/404-Tablet.png">
@@ -678,23 +679,23 @@ and 11 features:
 
 To deploy the website using GitHub Pages, perform the following steps:
 
-Visit the relevant GitHub repository and click on the Settings tab.
-From the left-side menu, select the Pages option.
-Choose the source as Branch: master.
-Upon page refresh, you will observe a banner at the top indicating: "Your site is published at https://ouzifeng.github.io/CI_PP1_BJJ_GYM/"
-If you wish to fork the repository, adhere to these steps:
+* Visit the relevant GitHub repository and click on the Settings tab.
+* From the left-side menu, select the Pages option.
+* Choose the source as Branch: master.
+* Upon page refresh, you will observe a banner at the top indicating: "Your site is published at https://ouzifeng.github.io/CI_PP1_BJJ_GYM/"
+* If you wish to fork the repository, adhere to these steps:
 
-Navigate to the desired GitHub repository.
-Find and click on the Fork button situated in the top right corner.
-To clone the repository, execute these steps:
+* Navigate to the desired GitHub repository.
+* Find and click on the Fork button situated in the top right corner.
+* To clone the repository, execute these steps:
 
-Visit the specific GitHub repository.
-Find the Code button placed above the file list and click on it.
-Decide your preferred cloning method: HTTPS, SSH, or Github CLI and hit the copy button to clone the URL to your clipboard.
-Launch Git Bash.
-Modify the current working directory to your preferred location for the cloned directory.
-Enter the command 'git clone' followed by the URL copied from the clipboard (e.g., $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY).
-Hit Enter to initialize your local clone.
+* Visit the specific GitHub repository.
+* Find the Code button placed above the file list and click on it.
+* Decide your preferred cloning method: HTTPS, SSH, or Github CLI and hit the copy button to clone the URL to your clipboard.
+* Launch Git Bash.
+* Modify the current working directory to your preferred location for the cloned directory.
+* Enter the command 'git clone' followed by the URL copied from the clipboard (e.g., $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY).
+* Hit Enter to initialize your local clone.
 
 ## Credits
 Images below do not belong to the developer, but they either have permission to use them from the owner or they can be used under Google's creative commons license
@@ -711,8 +712,8 @@ In order of appearance:
 | slider1.webp | https://carlsongraciebjjsurrey.com/ |
 | slider2.webp | https://carlsongraciebjjsurrey.com/ |
 | free-trial.webp | https://www.istockphoto.com/ |
-| adults-class.webp | | https://carlsongraciebjjsurrey.com/ |
-| childrens-class.webp | | https://carlsongraciebjjsurrey.com/ |
+| adults-class.webp | https://carlsongraciebjjsurrey.com/ |
+| childrens-class.webp | https://carlsongraciebjjsurrey.com/ |
 | bjj-timetable.webp | | https://www.istockphoto.com/ |
 
 #### 404:
