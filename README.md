@@ -744,7 +744,7 @@ In order of appearance:
 
 | **Video** | **Link** |
 | ----------- | ----------- |
-| Index page - YouTuve video | Carlson Gracie Surrey BJJ Youtube Page/ |
+| Index page - YouTube video | Carlson Gracie Surrey BJJ Youtube Page/ |
 
 ### Code
 
