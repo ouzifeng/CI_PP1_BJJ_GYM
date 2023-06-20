@@ -193,7 +193,7 @@ To keep with this theme, but with a lisght twist the 2 main colours will be baby
 
 </details>
 
-</details>
+<details>
 <summary>404</summary>
 <img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/wireframes/404-Desktop.png">
 <img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/wireframes/404-Tablet.png">
@@ -276,7 +276,7 @@ Performance has been impacted main by third party resources, please see known bu
 
 All images are taken using Chrome's built-in Lighthouse tool, measured on mobile. Desktop version yield better results
 
-<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/validation/404-Mobile.png">
+<img src="https://github.com/ouzifeng/bjj-gym/blob/main/docs/validation/404-Mobile.webp">
 Render-blocking resources impacting page performance
 
 <details>
@@ -714,7 +714,7 @@ In order of appearance:
 | free-trial.webp | https://www.istockphoto.com/ |
 | adults-class.webp | https://carlsongraciebjjsurrey.com/ |
 | childrens-class.webp | https://carlsongraciebjjsurrey.com/ |
-| bjj-timetable.webp | | https://www.istockphoto.com/ |
+| bjj-timetable.webp | https://www.istockphoto.com/ |
 
 #### 404:
 
@@ -728,11 +728,11 @@ In order of appearance:
 | ----------- | ----------- |
 | bjj-mats.webp | https://www.istockphoto.com/ |
 | bjj-gym.webp | https://www.istockphoto.com/ |
-| adults-class-1.webp | | https://carlsongraciebjjsurrey.com/ |
-| adults-class-2.webp | | https://carlsongraciebjjsurrey.com/ |
-| adults-class-3.webp | | https://carlsongraciebjjsurrey.com/ |
-| childrens-classes-1.webp | | https://carlsongraciebjjsurrey.com/ |
-| childrens-classes-2.webp | | https://carlsongraciebjjsurrey.com/ |
+| adults-class-1.webp | https://carlsongraciebjjsurrey.com/ |
+| adults-class-2.webp | https://carlsongraciebjjsurrey.com/ |
+| adults-class-3.webp | https://carlsongraciebjjsurrey.com/ |
+| childrens-classes-1.webp | https://carlsongraciebjjsurrey.com/ |
+| childrens-classes-2.webp | https://carlsongraciebjjsurrey.com/ |
 
 #### Prices:
 
